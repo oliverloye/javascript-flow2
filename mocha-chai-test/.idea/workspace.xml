@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c254e889-fbd1-4a47-87ae-7448de6f9ad0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/moduleUser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/lib/calc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/testCalc.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/testCalc.js" afterDir="false" />
-    </list>
+    <list default="true" id="c254e889-fbd1-4a47-87ae-7448de6f9ad0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -115,6 +110,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/calculator/lib" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/test" />
     </key>
@@ -144,16 +140,15 @@
       <workItem from="1551957798141" duration="7537000" />
       <workItem from="1553160604313" duration="451000" />
       <workItem from="1553170029867" duration="4010000" />
-      <workItem from="1553184683697" duration="949000" />
+      <workItem from="1553184683697" duration="1050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12947000" />
+    <option name="totallyTimeSpent" value="13048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="962" y="0" width="1598" height="1440" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20291694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
