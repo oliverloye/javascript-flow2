@@ -1,5 +1,5 @@
 const expect = require("chai").expect;
-const calc = require("../calc.js");
+const calc = require("../calculator/lib/calc.js");
 const fetch = require("node-fetch");
 const PORT = 3355;
 const URL = `http://localhost:${PORT}/api/calc/`;

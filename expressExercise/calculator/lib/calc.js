@@ -16,7 +16,6 @@ function multiply(n1, n2) {
 }
 
 function divide(n1, n2) {
-
     if (n1 == 0 || n2 == 0) {
         throw Error("Attempt to divide by ZERO! \n\n" +
             "YOU FOOL! \n");
@@ -59,10 +58,6 @@ function calcServer(port, isStartedCb) {
 
     })
 }
-
-// calcServer(PORT, () => {
-//     console.log(`Server started, listening on: ${PORT}`)
-// })
 
 module.exports = {
     add, sub, multiply, divide, calcServer
