@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59209f08-fee1-41c9-84ec-3720d1613b91" name="Default Changelist" comment="" />
+    <list default="true" id="59209f08-fee1-41c9-84ec-3720d1613b91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../expressExercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../miniProjec/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expressExercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../expressExercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expressExercise/test/testCalc.js" beforeDir="false" afterPath="$PROJECT_DIR$/../expressExercise/test/testCalc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniProjec/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../miniProjec/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,12 +34,15 @@
         <entry file="file://$PROJECT_DIR$/app/converter.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -46,6 +57,7 @@
     <option name="width" value="1440" />
     <option name="height" value="831" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -57,11 +69,6 @@
             <path>
               <item name="mocha-and-chai" type="b2602c69:ProjectViewProjectNode" />
               <item name="mocha-and-chai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocha-and-chai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocha-and-chai" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mocha-and-chai" type="b2602c69:ProjectViewProjectNode" />
@@ -111,7 +118,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="831" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -147,7 +153,7 @@
     <entry file="file://$PROJECT_DIR$/app/converter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
         </state>
       </provider>
     </entry>
