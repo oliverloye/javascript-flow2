@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b968e0a-2514-4a94-b119-18349c363b8b" name="Default Changelist" comment="" />
+    <list default="true" id="5b968e0a-2514-4a94-b119-18349c363b8b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../hand-in/testing/mocha-chai-calculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hand-in/testing/mocha-chai-calculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hand-in/testing/mocha-chai-calculator/.idea/mocha-chai-calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hand-in/testing/mocha-chai-calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hand-in/testing/mocha-chai-calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hand-in/testing/mocha-chai-calculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../miniProjec/rest/userRest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../miniProjec/test/locationBlogFacadeTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../miniProjec/test/userFacadeTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hand-in/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hand-in/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hand-in/express-exercises/logger-serverside-templating/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../hand-in/express-exercises/logger-serverside-templating/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../miniProjec/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../miniProjec/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../miniProjec/facades/blogFacade.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../miniProjec/facades/blogFacade.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../miniProjec/facades/userFacade.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../miniProjec/facades/userFacade.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../miniProjec/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../miniProjec/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../miniProjec/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../miniProjec/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mocha-and-chai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mocha-and-chai/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,17 +30,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lars-user.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
+            <state relative-caret-position="434">
               <caret line="61" column="50" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -37,6 +58,7 @@
     <option name="width" value="1440" />
     <option name="height" value="831" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -86,14 +108,16 @@
       <workItem from="1552379986942" duration="4331000" />
       <workItem from="1552423956057" duration="13000" />
       <workItem from="1553161264973" duration="198000" />
+      <workItem from="1553258669199" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4542000" />
+    <option name="totallyTimeSpent" value="4565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="831" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -127,14 +151,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
+        <state relative-caret-position="120">
           <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lars-user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
+        <state relative-caret-position="434">
           <caret line="61" column="50" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
         </state>
       </provider>

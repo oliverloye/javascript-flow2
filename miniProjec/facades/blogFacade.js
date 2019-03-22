@@ -1,13 +1,13 @@
 const LocationBlog = require('../models/locationBlog');
 
-async function addLocationBlog(info = "undefined", slug = "undefined", img = "undefined", pos, authorID, likedByUserID = "undefined") {
-    var blog = new locationBlog({
-        info: [info],
-        slug: [slug],
-        img: [img],
-        pos: [pos],
-        authorID: [authorID],
-        likedByUserID: [likedByUserID]
+async function addLocationBlog(info, slug, img, pos, author, likedByUserID) {
+    var blog = new LocationBlog({
+        info,
+        slug,
+        img,
+        pos,
+        author,
+        likedByUserID
     });
     await blog.save();
 

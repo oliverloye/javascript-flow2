@@ -1,16 +1,16 @@
 const User = require('../models/user');
 
 
-async function addUser(username, password, firstName = 'undefined', lastName = "undefined", email) {
+async function addUser(username, password, firstName = 'undefined', lastName = "undefined", email, created = undefined) {
     var user = new User({
         username: [username],
         password: [password],
         firstName: [firstName],
         lastName: [lastName],
-        email: [email]
+        email: [email],
+        created
     });
     await user.save();
-    console.log("User added!");
 }
 
 

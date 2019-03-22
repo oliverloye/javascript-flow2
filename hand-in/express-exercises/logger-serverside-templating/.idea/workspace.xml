@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59209f08-fee1-41c9-84ec-3720d1613b91" name="Default Changelist" comment="" />
+    <list default="true" id="04c57cfa-d6db-4e60-8dcb-f8a09db79ea6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../miniProjec/test/locationBlogFacadeTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../miniProjec/test/userFacadeTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../miniProjec/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../miniProjec/facades/blogFacade.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/facades/blogFacade.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../miniProjec/facades/userFacade.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/facades/userFacade.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../miniProjec/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../miniProjec/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mocha-and-chai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../mocha-and-chai/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,20 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/converter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/converter.js">
+        <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <state relative-caret-position="15">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -34,19 +36,19 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/converter.js" />
-        <option value="$PROJECT_DIR$/app/converter.js" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1278" />
-    <option name="height" value="1440" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="831" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -54,23 +56,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="mocha-and-chai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocha-and-chai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocha-and-chai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocha-and-chai" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="logger-serverside-templating" type="b2602c69:ProjectViewProjectNode" />
+              <item name="logger-serverside-templating" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -95,18 +92,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="59209f08-fee1-41c9-84ec-3720d1613b91" name="Default Changelist" comment="" />
-      <created>1553168742473</created>
+      <changelist id="04c57cfa-d6db-4e60-8dcb-f8a09db79ea6" name="Default Changelist" comment="" />
+      <created>1553245306368</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553168742473</updated>
-      <workItem from="1553168743657" duration="1505000" />
-      <workItem from="1553244209405" duration="18000" />
+      <updated>1553245306368</updated>
+      <workItem from="1553245308259" duration="197000" />
+      <workItem from="1553246121924" duration="194000" />
+      <workItem from="1553246540705" duration="548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1523000" />
+    <option name="totallyTimeSpent" value="939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="831" extended-state="6" />
@@ -135,17 +133,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/converter.js">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/converter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        <state relative-caret-position="15">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
