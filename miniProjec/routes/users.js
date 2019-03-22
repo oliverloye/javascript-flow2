@@ -31,6 +31,7 @@ router.post('/add', async function (req, res, next) {
             res.json(err.toString());
         });
     // returns the user
+    console.log(user);
     res.json(user);
 });
 

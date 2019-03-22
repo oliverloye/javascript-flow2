@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be825a56-81ed-4a88-a434-d943bcf74ff9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mocha-chai-calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../miniProjec/test/locationBlogFacadeTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../miniProjec/test/userFacadeTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../miniProjec/views/error.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../mongoDB/mongoDemo/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../miniProjec/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../miniProjec/facades/blogFacade.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/facades/blogFacade.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../miniProjec/facades/userFacade.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/facades/userFacade.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../miniProjec/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../miniProjec/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../miniProjec/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/routes/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mocha-and-chai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../mocha-and-chai/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../mongoDB/mongoDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../mongoDB/mongoDemo/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />

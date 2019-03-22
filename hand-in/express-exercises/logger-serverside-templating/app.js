@@ -4,7 +4,7 @@ const path = require("path");
 const cookieParser = require("cookie-parser");
 const logger = require("morgan");
 const cookieSession = require("cookie-session");
-const PORT = 3006;
+const PORT = 12345;
 
 const indexRouter = require("./routes/index");
 const apiRouter = require("./routes/api");
