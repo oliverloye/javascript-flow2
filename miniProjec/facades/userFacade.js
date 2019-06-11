@@ -10,8 +10,9 @@ async function addUser(username, password, firstName = 'undefined', lastName = "
         email: [email],
         created
     });
-    return user;
     await user.save();
+    return user;
+    
 }
 
 

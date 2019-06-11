@@ -11,7 +11,7 @@ var LocationBlogSchema = new Schema({
         longitude: {type: Number, required: true},
         latitude: {type: Number, required: true}
     },
-    //author: {type: Schema.ObjectId, }
+    //author: {type: Schema.ObjectId, },
     author: {type: Schema.Types.ObjectId, ref: "User", required: true},
     //likedBy: [Schema.Types.ObjectId]
     likedBy: {type: [Schema.Types.ObjectId], ref: "User"}

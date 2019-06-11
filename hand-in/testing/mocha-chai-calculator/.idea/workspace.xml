@@ -2,12 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be825a56-81ed-4a88-a434-d943bcf74ff9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/hand-in.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express/demo/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express/demo/bin/www" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express/demo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express/demo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express/demo/public/stylesheets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express/demo/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express/demo/routes/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express/demo/views/error.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express/demo/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express/myapp/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express/myapp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express/myapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express2rest/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express2rest/bin/www" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express2rest/model/jokes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express2rest/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express2rest/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express2rest/public/stylesheets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express2rest/routes/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express2rest/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express2rest/views/error.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week1-express/express2rest/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week2-testing/calc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week2-testing/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week2-testing/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week2-testing/test/testCalc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week2-testing/testRunner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week3-mongodb/mongodbdemo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week3-mongodb/mongodbdemo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FullStack_JavaScript_Flow2-master/week3-mongodb/mongodbdemo/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/exercise-middleware/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/exercise-middleware/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/exercise-middleware/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/exercise-middleware/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/.idea/logger-serverside-templating.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../miniProjec/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../miniProjec/facades/userFacade.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/facades/userFacade.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../miniProjec/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../miniProjec/routes/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/bin/www" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/model/jokes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/public/stylesheets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/routes/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/views/Login.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/views/addJoke.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/views/allJokes.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/views/error.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-exercises/logger-serverside-templating/views/randomJoke.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mocha-chai-calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/www" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/testCalculator.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,36 +90,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/calculator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/users.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/index.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/testCalculator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -72,27 +114,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="mocha-chai-calculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocha-chai-calculator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocha-chai-calculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocha-chai-calculator" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mocha-chai-calculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mocha-chai-calculator" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,7 +154,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="101" width="1440" height="831" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -158,9 +179,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/users.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -177,6 +195,9 @@
           <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

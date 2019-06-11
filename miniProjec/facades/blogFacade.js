@@ -10,7 +10,18 @@ async function addLocationBlog(info, slug, img, pos, author, likedByUserID) {
         likedByUserID
     });
     await blog.save();
+    return blog;
 
+}
+
+async function findAllBlogs() {
+    return await LocationBlog.find({}).exec();
+}
+
+async function findBlogByUsername(username) {
+    return await LocationBlog.find({
+        "username": username
+    });
 }
 
 
@@ -19,4 +30,4 @@ async function likeLocationBlog(blogid, userid){
     return blog;
 }
 
-module.exports = {addLocationBlog, likeLocationBlog};
+module.exports = {addLocationBlog, findBlogByUsername, likeLocationBlog, findAllBlogs};

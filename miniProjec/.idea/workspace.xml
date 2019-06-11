@@ -2,12 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d498f63-4e84-4fa5-97e5-40759d559428" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hand-in/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/.idea/hand-in.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express/demo/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express/demo/bin/www" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express/demo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express/demo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express/demo/public/stylesheets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express/demo/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express/demo/routes/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express/demo/views/error.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express/demo/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express/myapp/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express/myapp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express/myapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express2rest/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express2rest/bin/www" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express2rest/model/jokes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express2rest/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express2rest/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express2rest/public/stylesheets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express2rest/routes/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express2rest/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express2rest/views/error.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week1-express/express2rest/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week2-testing/calc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week2-testing/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week2-testing/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week2-testing/test/testCalc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week2-testing/testRunner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week3-mongodb/mongodbdemo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week3-mongodb/mongodbdemo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/FullStack_JavaScript_Flow2-master/week3-mongodb/mongodbdemo/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/exercise-middleware/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/exercise-middleware/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/exercise-middleware/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/exercise-middleware/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/.idea/logger-serverside-templating.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/bin/www" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/model/jokes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/public/stylesheets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/routes/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/views/Login.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/views/addJoke.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/views/allJokes.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/views/error.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/express-exercises/logger-serverside-templating/views/randomJoke.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/.idea/mocha-chai-calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facades/userFacade.js" beforeDir="false" afterPath="$PROJECT_DIR$/facades/userFacade.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/bin/www" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/calculator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/public/stylesheets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/routes/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hand-in/testing/mocha-chai-calculator/test/testCalculator.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="332">
-              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -33,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/routes/users.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="131">
-              <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -42,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/views/error.hbs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -51,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/facades/userFacade.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -60,7 +131,7 @@
         <entry file="file://$PROJECT_DIR$/models/user.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="151">
-              <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -69,7 +140,7 @@
         <entry file="file://$PROJECT_DIR$/settings.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -78,7 +149,7 @@
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -87,7 +158,7 @@
         <entry file="file://$PROJECT_DIR$/test/userFacadeTest.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="403">
-              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
@@ -105,7 +176,7 @@
         <entry file="file://$PROJECT_DIR$/facades/blogFacade.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -155,8 +226,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="23" />
-    <option name="y" value="24" />
+    <option name="x" value="12" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="831" />
   </component>
@@ -192,11 +263,6 @@
               <item name="miniProjec" type="b2602c69:ProjectViewProjectNode" />
               <item name="miniProjec" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="miniProjec" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniProjec" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,15 +306,15 @@
       <workItem from="1553160602268" duration="4000" />
       <workItem from="1553161456350" duration="4849000" />
       <workItem from="1553244207787" duration="23000" />
-      <workItem from="1553246542719" duration="16055000" />
+      <workItem from="1553246542719" duration="16284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29383000" />
+    <option name="totallyTimeSpent" value="29612000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="24" width="1440" height="831" extended-state="0" />
+    <frame x="12" y="23" width="1440" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -314,7 +380,7 @@
     <entry file="file://$PROJECT_DIR$/facades/blogFacade.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -328,14 +394,14 @@
     <entry file="file://$PROJECT_DIR$/settings.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -349,42 +415,42 @@
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
-          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/userFacadeTest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
-          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/error.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/user.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
-          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/users.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/facades/userFacade.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>

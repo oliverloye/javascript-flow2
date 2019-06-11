@@ -1,5 +1,5 @@
 var connect = require("./dbConnect.js");
-connect(require("./settings").DEV_DB_URI);
+connect(require("./settings").TEST_DB_URI);
 
 var User = require("./models/user.js");
 var LocationBlog = require("./models/locationBlog.js");
